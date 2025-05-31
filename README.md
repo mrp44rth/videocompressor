@@ -22,7 +22,7 @@ A powerful client-side video compression tool that reduces file sizes by up to 9
 
 ## Live Demo
 
-[Try it now!](https://your-demo-link-here.com) (Host this HTML file anywhere)
+[Try it now!](https://mrp44rth.github.io/videocompressor) (Host this HTML file anywhere)
 
 ## How to Use 🚀
 
