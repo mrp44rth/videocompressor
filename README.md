@@ -45,6 +45,12 @@ This innovative tool uses browser APIs to process videos directly on your device
 
 This innovative tool uses browser APIs to process videos directly on your device:
 
+## Contributing 🔧
+
+Feel free to fork the repository and contribute to the project. Any improvements, bug fixes, or new features are welcome!
+
+---
+
 ```mermaid
 graph TD
     A[User Selects Video] --> B[Read File Metadata]
